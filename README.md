@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey! Welcome to my page. I'm Gabriel, but you can call me "Trinity" 
 
-<!--
-**trinity-aitech/trinity-aitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Harvard ALP 2025 Finalist 
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🌐 Desenvolvedor Fullstack apaixonado por transformar ideias em código
+🤖 Explorando Machine Learning e soluções na AWS
 
-Here are some ideas to get you started:
+🚀 ## Tecnologias do meu dia-a-dia.
+  Linguagens: Python • JavaScript • SQL • HTML • CSS
+  Cloud & Infra: AWS, IBM Cloud
+  Data & ML: Machine Learning, Análise de dados, Automação inteligente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧙‍♂️ ## O que você vai encontrar por aqui
+  Projetos de estudo e experimentos pessoais criativos
+  Aplicações fullstack que misturam frontend bonito com um backend confiável
+  Pequenos hacks e scripts que tornam a vida mais fácil
