@@ -23,7 +23,7 @@ Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco 
 
 ## 🏆 Meus destaques
 
-- 🎓 McKinsey.org and Aspire Institute Alumni
+- 🎓 Aluno (Alumni) na McKinsey.org e Aspire Institute
 - 🥇 Harvard ALP 2025 Finalist
 - 🪪 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🖥️ Desenvolvedor FullStack apaixonado por transformar ideias em código
