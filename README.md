@@ -1,4 +1,5 @@
-# Hey! Welcome to my page. Feel free to take a look around. 💜
+
+# <p align="center"> Hey! Welcome to my page. Feel free to take a look around. 
 </svg>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -17,7 +18,7 @@
 </p>
 
 ## 🌇 Um pouco sobre mim
-Meu nome é Gabriel ( Trinity ), tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
+Meu nome é Gabriel, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
 Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco em desenvolvimento FullStack, Machine Learning e Cloud Computing.
 
 ## 🏆 Meus destaques
@@ -35,17 +36,17 @@ Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco 
 
 ## 🧙‍♂️ O que você vai encontrar por aqui
 - Projetos de estudo e experimentos pessoais criativos  
-- Aplicações que misturam Front-end bonito com um Back-end confiável  
+- Aplicações que misturam FrontEnd bonito com um BackEnd confiável  
 - Pequenos hacks e scripts que tornam a vida mais fácil 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
+<br>
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/oliveiragabb/" target="_blank">
+  <a href="https://www.linkedin.com/in/oliveiragabb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Perfil-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <!-- Email -->
-  <a href="mailto:gabrieldeoliveiradevtech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrieldeoliveiradevtech@gmail.com&su=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+</a>
 </p>
