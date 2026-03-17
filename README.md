@@ -23,13 +23,9 @@ Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco 
 ## 🏆 Meus destaques
 
 - 🎓 McKinsey.org and Aspire Institute Alumni
- 
 - 🥇 Harvard ALP 2025 Finalist
-
 - 🪪 Estudante de Análise e Desenvolvimento de Sistemas  
-
 - 🖥️ Desenvolvedor FullStack apaixonado por transformar ideias em código
-
 - 🤖 Foco em Machine Learning e soluções com AWS
 
 ## 🐱 Tecnologias do meu dia-a-dia
@@ -42,8 +38,6 @@ Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco 
 - Aplicações que misturam Front-end bonito com um Back-end confiável  
 - Pequenos hacks e scripts que tornam a vida mais fácil 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-## 📬 Contatos & Redes Sociais
 
 <p align="center">
   <!-- LinkedIn -->
