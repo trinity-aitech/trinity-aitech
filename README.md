@@ -6,7 +6,7 @@
 
 🔋 Desenvolvedor Fullstack apaixonado por transformar ideias em código
 
-🤖 Explorando Machine Learning e soluções na AWS
+🤖 Explorando Machine Learning e soluções com AWS
 
 ## 🐱 Tecnologias do meu dia-a-dia
 - Linguagens: Python • JavaScript • SQL • HTML • CSS  
@@ -15,5 +15,5 @@
 
 ## 🧙‍♂️ O que você vai encontrar por aqui
 - Projetos de estudo e experimentos pessoais criativos  
-- Aplicações fullstack que misturam frontend bonito com um backend confiável  
+- Aplicações que misturam Front-end bonito com um Back-end confiável  
 - Pequenos hacks e scripts que tornam a vida mais fácil 
