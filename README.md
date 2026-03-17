@@ -1,4 +1,4 @@
-# Hey! Welcome to my page. I'm Gabriel, but you can call me "Trinity"🌠
+# Hey! Welcome to my page. Feel free to take a look around. 🌠
 
 🎓 Harvard ALP 2025 Finalist
 
