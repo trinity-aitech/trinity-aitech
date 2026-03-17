@@ -1,8 +1,11 @@
 # Hey! Welcome to my page. I'm Gabriel, but you can call me "Trinity" 🌠
 
-🎓 Harvard ALP 2025 Finalist 
+🎓 Harvard ALP 2025 Finalist
+
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
+
 🌐 Desenvolvedor Fullstack apaixonado por transformar ideias em código
+
 🤖 Explorando Machine Learning e soluções na AWS
 
 ## 🚀 Tecnologias do meu dia-a-dia
