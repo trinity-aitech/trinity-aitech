@@ -32,7 +32,7 @@ Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco 
 ## 🐱 Tecnologias do meu dia-a-dia
 - Linguagens: Python • JavaScript • SQL • HTML • CSS  
 - Cloud & Infra: AWS, IBM Cloud  
-- Data & ML: Machine Learning, Análise de dados, Automação inteligente  
+- Data & AI: Machine Learning, Análise de dados, Automação inteligente  
 
 ## 🧙‍♂️ O que você vai encontrar por aqui
 - Projetos de estudo e experimentos pessoais criativos  
