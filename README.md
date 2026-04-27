@@ -2,27 +2,9 @@
 # <p align="center"> Hey! Welcome to my page. Feel free to take a look around. 
 </svg>
 <p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-    <figcaption>Python</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    <figcaption>JavaScript</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-    <figcaption>PostgreSQL</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-    <figcaption>HTML5</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-    <figcaption>CSS3</figcaption>
-  </figure>
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,html,css,apache,aws,dotnet,linux,mysql,visualstudio,&theme=dark" />
 </p>
+
 
 ## 🌇 Um pouco sobre mim
 Meu nome é Gabriel, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
