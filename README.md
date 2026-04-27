@@ -8,14 +8,14 @@
 
 ## 🌇 Um pouco sobre mim
 Meu nome é Gabriel, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
-Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco em desenvolvimento FullStack, Machine Learning e Cloud Computing.
+Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco em desenvolvimento Full-Stack, Machine Learning e Cloud Computing.
 
 ## 🏆 Meus destaques
 
-- 🎓 Aluno (Alumni) na McKinsey.org e Aspire Institute
+- 🎓 Aluno ativo da McKinsey.org e Aspire Institute
 - 🥇 Harvard ALP 2025 Finalist
 - 🪪 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🖥️ Desenvolvedor FullStack apaixonado por transformar ideias em código
+- 🖥️ Desenvolvedor Full-Stack apaixonado por transformar ideias em programas práticos
 - 🤖 Foco em Machine Learning e soluções com AWS
 
 ## 🐱 Tecnologias do meu dia-a-dia
@@ -25,7 +25,7 @@ Apaixonado por tecnologia desde cedo, estou construindo minha carreira com foco 
 
 ## 🧙‍♂️ O que você vai encontrar por aqui
 - Projetos de estudo e experimentos pessoais criativos  
-- Aplicações que misturam FrontEnd bonito com um BackEnd confiável  
+- Aplicações que misturam Front-End bonito com um Back-End confiável  
 - Pequenos hacks e scripts que tornam a vida mais fácil 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <br>
